@@ -11,8 +11,8 @@ github_repo: "https://github.com/skingstyle/skingstyle.github.io" # you code rep
 
 # Sidebar settings
 sidebar: ture                           # whether or not using Sidebar.
-sidebar-about-description: "这个地方写什么比较显得有逼格？"
-sidebar-avatar: /img/black.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "写什么比较显得有逼格呢？"
+sidebar-avatar: /img/smoke.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
